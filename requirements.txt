@@ -1,0 +1,17 @@
+# Core dependencies for DSPy-based projects
+dspy-ai>=2.0.0
+openai>=1.0.0
+litellm>=1.0.0
+
+# Data handling and processing
+pydantic>=2.0.0
+
+# ML experiment tracking
+mlflow>=2.0.0
+
+# Jupyter notebooks
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# Utilities
+python-dotenv>=1.0.0
